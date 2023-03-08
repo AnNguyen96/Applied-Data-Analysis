@@ -1,13 +1,11 @@
-# Applied-Data-Analysis
-Run .R files with RStudio
-or .ipynb file with Jupyter Notebook
-
-
 <h1 align="center">
   Monthly Utility Bill Prediction
 </h1>
 
-Giới thiệu về dự án
+**Project Description**: This project is part of an assignment in the Applied Data Analysis course at Monash University. Commercial electricity prices in Australia are rising to a record high. Australia is a significant energy supplier globally, this a supply shortage is not the cause of the current issue. Concerns about affordability are at its core. Therefore, knowing the main factors (other than money) that affect electricity bills is an important first step to improving the above problems.
+Mục tiêu của dự án này là sử dụng nhiều loại mô hình 
+
+<h4 align="center">The project is made by Phuc An Nguyen</h4>
 
 ## Key Features
 
@@ -21,28 +19,7 @@ Giới thiệu về dự án
 * Dark/Light mode
 
 ## How to Install and Run the Project
-Run the 'app.R' file on RStudio to start the website
-
-## How To Use
-
-To clone and run this application, you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. From your command line:
-
-```bash
-# Clone this repository
-$ git clone https://github.com/amitmerchant1990/electron-markdownify
-
-# Go into the repository
-$ cd electron-markdownify
-
-# Install dependencies
-$ npm install
-
-# Run the app
-$ npm start
-```
-
-> **Note**
-> If you're using Linux Bash for Windows, [see this guide](https://www.howtogeek.com/261575/how-to-run-graphical-linux-desktop-applications-from-windows-10s-bash-shell/) or use `node` from the command prompt.
+Run `32406231_FIT5149_Assmt1.r` files with `RStudio` or `32406231_FIT5149_Assmt1.ipynb` file with `Jupyter Notebook` to run 
 
 ## Credits
 
